@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed 002 HDD pmem corrected",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2020-06-25T14:12:52.080Z"
+    },
+    {
+      "message": "Wireless on 223 down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-06-25T14:13:11.106Z",
+      "id": 2
+    },
+    {
+      "message": "alot has been happening",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-25T14:13:32.418Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "jenifer",
+      "lastName": "williams",
+      "id": 4
+    }
+  ]
+}
